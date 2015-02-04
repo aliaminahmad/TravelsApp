@@ -1,0 +1,11 @@
+C:\Users\aah\Dropbox\Travels\Travels\bin\Debug\Travels.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\FSharp.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.4\Mono.Android.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+C:\Users\aah\Dropbox\Travels\packages\OxyPlot.Core.2014.1.517\lib\portable-net4+sl4+wp71+win8\OxyPlot.dll
+C:\Users\aah\Dropbox\Travels\packages\OxyPlot.XamarinAndroid.2014.1.517\lib\MonoAndroid\OxyPlot.XamarinAndroid.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Xamarin.Android.NUnitLite.dll
+C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Net.dll

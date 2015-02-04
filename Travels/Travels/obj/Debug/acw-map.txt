@@ -1,0 +1,9 @@
+Travels.ChartTab;travels.ChartTab
+Travels.MainActivity;travels.MainActivity
+OxyPlot.XamarinAndroid.PlotView;oxyplot.xamarinandroid.PlotView
+Xamarin.Android.NUnitLite.TestSuiteActivity;xamarin.android.nunitlite.TestSuiteActivity
+Xamarin.Android.NUnitLite.TestSuiteActivity.TestDataAdapter;xamarin.android.nunitlite.TestSuiteActivity_TestDataAdapter
+Xamarin.Android.NUnitLite.TestSuiteActivity.TestData;xamarin.android.nunitlite.TestSuiteActivity_TestData
+Xamarin.Android.NUnitLite.TestSuiteInstrumentation;xamarin.android.nunitlite.TestSuiteInstrumentation
+Xamarin.Android.NUnitLite.TestResultActivity;xamarin.android.nunitlite.TestResultActivity
+Xamarin.Android.NUnitLite.OptionsActivity;xamarin.android.nunitlite.OptionsActivity

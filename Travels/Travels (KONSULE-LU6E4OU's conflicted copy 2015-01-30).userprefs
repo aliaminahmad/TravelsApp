@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Travels\Travels.fsproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_21_x86" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Ali\Documents\Projects\Travels\Travels\MainActivity.fs" line="94" column="1" />
+      <Breakpoint file="C:\Users\aah\Dropbox\Travels\Travels\MainActivity.fs" line="57" column="1" />
+      <Breakpoint file="C:\Users\aah\Dropbox\Travels\Travels\Services.fs" line="30" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

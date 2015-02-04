@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="vertical"
+    p1:layout_width="fill_parent"
+    p1:layout_height="fill_parent">
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:layout_width="match_parent"
+        p1:layout_height="430dp"
+        p1:id="@+id/linearLayout1">
+        <TableLayout
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:id="@+id/ChargeAmountLayout"
+            p1:layout_width="match_parent"
+            p1:layout_height="60.4dp"
+            p1:shrinkColumns="*"
+            p1:stretchColumns="0">
+            <TableRow
+                p1:id="@+id/tableRow4"
+                p1:layout_height="53.0dp"
+                p1:layout_width="match_parent">
+                <EditText
+                    p1:inputType="numberDecimal"
+                    p1:id="@+id/TextAmountCharge"
+                    p1:layout_width="match_parent"
+                    p1:layout_height="40dp"
+                    p1:hint="Amount" />
+                <TextView
+                    p1:text="NOK"
+                    p1:textAppearance="?android:attr/textAppearanceMedium"
+                    p1:id="@+id/textView12"
+                    p1:layout_width="65dp"
+                    p1:textAlignment="center"
+                    p1:numeric="integer"
+                    p1:gravity="center"
+                    p1:layout_height="40dp" />
+            </TableRow>
+        </TableLayout>
+        <TableLayout
+            p1:id="@+id/PersonTable"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content" />
+        <Button
+            p1:text="Add Expense"
+            p1:id="@+id/AddExpenseButton"
+            p1:layout_width="match_parent"
+            p1:layout_height="75dp"
+            p1:enabled="true" />
+    </LinearLayout>
+    <TextView
+        p1:text="Computas dev "
+        p1:id="@+id/textView1"
+        p1:gravity="end"
+        p1:textSize="20dp"
+        p1:typeface="monospace"
+        p1:textStyle="bold"
+        p1:textAlignment="viewEnd"
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent" />
+</LinearLayout>
